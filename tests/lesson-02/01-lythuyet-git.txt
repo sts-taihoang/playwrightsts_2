@@ -1,0 +1,4 @@
+git init -> chuyển từ local sang working environment
+git add <file_name> -> đưa <file_name> vào staging để chuẩn bị commit
+git add . -> add tất cả các thay đổi chưa commit vào staging
+git commit -m "message" -> lưu các thay đổi ở staging với ghi chú là "message"
